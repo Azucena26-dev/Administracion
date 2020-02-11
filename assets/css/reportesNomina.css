@@ -1,0 +1,21 @@
+.nomina table, td, th {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.titleNomina{
+    text-align: center !important;
+    text-transform: uppercase;
+}
